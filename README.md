@@ -1,4 +1,4 @@
-# university_app
+# RGPVdirect
 
 A new Flutter project.
 
