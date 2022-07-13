@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960578697878",
+    "project_id": "rgpvdirect",
+    "storage_bucket": "rgpvdirect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960578697878:android:c7bbc3d8932aba9c77e0b7",
+        "android_client_info": {
+          "package_name": "tech.dresolution.rgpv_direct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960578697878-2ko07kqpchbmsnu3k32a6vj0dsthlu69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbhzhSoEXyYKW7thiPLtyCVDmf0C_bNKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960578697878-2ko07kqpchbmsnu3k32a6vj0dsthlu69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
